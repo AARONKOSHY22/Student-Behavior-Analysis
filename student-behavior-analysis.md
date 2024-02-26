@@ -25,9 +25,13 @@ The dataset consists of 480 entries with features categorized into numerical and
 ## Insights from Distribution Analysis
 
 The distributions of both numerical and categorical variables provide a foundation for understanding student behaviors. Notably, active engagement metrics like raised hands, visited resources, announcements view, and participation in discussions are varied, suggesting potential criteria for segmentation.
-<img src="Images/1.png" width="500" alt="Faculty-Wise Distribution of Feedback">
-<img src="Images/1.png" width="500" alt="Faculty-Wise Distribution of Feedback">
-<img src="Images/1.png" width="500" alt="Faculty-Wise Distribution of Feedback">
+
+<img src="Images/1.jpg" width="500" alt="Faculty-Wise Distribution of Feedback">
+
+<img src="Images/2.jpg" width="500" alt="Faculty-Wise Distribution of Feedback">
+
+<img src="Images/3.jpg" width="500" alt="Faculty-Wise Distribution of Feedback">
+
 ## Relationships and Correlations
 
 Boxplots indicate a positive relationship between engagement metrics and academic performance or class level. Higher class level students tend to participate more actively, suggesting a link between student engagement and academic performance.
